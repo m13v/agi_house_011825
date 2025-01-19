@@ -1,0 +1,172 @@
+[
+  {
+    "timestamp": "2025-01-18T19:24:11.800835",
+    "action": "error",
+    "result": "error analyzing screenshot: 'LiveServerToolCall' object has no attribute 'name'"
+  },
+  {
+    "timestamp": "2025-01-18T19:24:18.834865",
+    "action": "error",
+    "result": "error analyzing screenshot: 'LiveServerToolCall' object has no attribute 'name'"
+  },
+  {
+    "timestamp": "2025-01-18T19:24:27.967487",
+    "action": "error",
+    "result": "error analyzing screenshot: 'LiveServerToolCall' object has no attribute 'name'"
+  },
+  {
+    "timestamp": "2025-01-18T19:51:04.547095",
+    "action": "error",
+    "result": "error analyzing screenshot: asyncio.run() cannot be called from a running event loop"
+  },
+  {
+    "timestamp": "2025-01-18T19:51:12.810650",
+    "action": "error",
+    "result": "error analyzing screenshot: asyncio.run() cannot be called from a running event loop"
+  },
+  {
+    "timestamp": "2025-01-18T19:51:21.211029",
+    "action": "error",
+    "result": "error analyzing screenshot: asyncio.run() cannot be called from a running event loop"
+  },
+  {
+    "timestamp": "2025-01-18T19:53:37.626431",
+    "action": "type_letters",
+    "result": "KL"
+  },
+  {
+    "timestamp": "2025-01-18T19:53:44.654244",
+    "action": "type_letters",
+    "result": "LG"
+  },
+  {
+    "timestamp": "2025-01-18T19:53:52.013910",
+    "action": "type_letters",
+    "result": "WH"
+  },
+  {
+    "timestamp": "2025-01-18T19:53:59.142170",
+    "action": "type_letters",
+    "result": "WH"
+  },
+  {
+    "timestamp": "2025-01-18T19:54:06.100045",
+    "action": "type_letters",
+    "result": "WG"
+  },
+  {
+    "timestamp": "2025-01-18T19:54:12.927316",
+    "action": "type_letters",
+    "result": "WH"
+  },
+  {
+    "timestamp": "2025-01-18T19:54:19.581409",
+    "action": "type_letters",
+    "result": "WH"
+  },
+  {
+    "timestamp": "2025-01-18T19:55:32.413273",
+    "action": "type_letters",
+    "result": "WH"
+  },
+  {
+    "timestamp": "2025-01-18T19:57:59.775956",
+    "action": "type_letters",
+    "result": "CG"
+  },
+  {
+    "timestamp": "2025-01-18T19:58:06.952522",
+    "action": "type_letters",
+    "result": "LJ"
+  },
+  {
+    "timestamp": "2025-01-18T19:58:13.971092",
+    "action": "type_letters",
+    "result": "LF"
+  },
+  {
+    "timestamp": "2025-01-18T19:58:20.790220",
+    "action": "type_letters",
+    "result": "LJ"
+  },
+  {
+    "timestamp": "2025-01-18T20:00:15.109969",
+    "action": "type_letters",
+    "result": "CG"
+  },
+  {
+    "timestamp": "2025-01-18T20:00:22.606266",
+    "action": "type_letters",
+    "result": "CM"
+  },
+  {
+    "timestamp": "2025-01-18T20:00:29.782199",
+    "action": "type_letters",
+    "result": "CM"
+  },
+  {
+    "timestamp": "2025-01-18T20:00:36.730648",
+    "action": "type_letters",
+    "result": "LJ"
+  },
+  {
+    "timestamp": "2025-01-18T20:00:43.647989",
+    "action": "type_letters",
+    "result": "LJ"
+  },
+  {
+    "timestamp": "2025-01-18T20:02:48.119110",
+    "action": "type_letters",
+    "result": "CG"
+  },
+  {
+    "timestamp": "2025-01-18T20:02:55.693953",
+    "action": "type_letters",
+    "result": "MG"
+  },
+  {
+    "timestamp": "2025-01-18T20:03:02.943985",
+    "action": "type_letters",
+    "result": "MM"
+  },
+  {
+    "timestamp": "2025-01-18T20:04:45.968913",
+    "action": "type_letters",
+    "result": "CM"
+  },
+  {
+    "timestamp": "2025-01-18T20:04:53.075387",
+    "action": "type_letters",
+    "result": "KG"
+  },
+  {
+    "timestamp": "2025-01-18T20:05:00.226132",
+    "action": "type_letters",
+    "result": "JH"
+  },
+  {
+    "timestamp": "2025-01-18T20:05:11.442151",
+    "action": "type_text",
+    "result": "I think topics are the most important"
+  },
+  {
+    "timestamp": "2025-01-18T20:05:18.862929",
+    "action": "type_letters",
+    "result": "RE"
+  },
+  {
+    "timestamp": "2025-01-18T20:05:26.019932",
+    "action": "type_letters",
+    "result": "KG"
+  },
+  {
+    "timestamp": "2025-01-18T20:05:33.354895",
+    "action": "type_letters",
+    "result": "KG"
+  },
+  {
+    "timestamp": "2025-01-18T20:05:41.258247",
+    "action": "type_text",
+    "result": "What about webinars?"
+  }
+]
